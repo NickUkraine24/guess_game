@@ -22,7 +22,7 @@ def guess_game(input_max_number)
     puts "Number is greater." if input_number > random_number
 
     # when user input less number than a random number
-    puts "Number is less than #{input_number}." if input_number < random_number
+    puts "Number is less." if input_number < random_number
   end
   # returns random number when user don't guess the random number in 10 attempts
   puts "Random number is #{random_number}."

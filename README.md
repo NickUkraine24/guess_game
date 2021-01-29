@@ -31,7 +31,7 @@
     ```
   - Output:
     ```shell
-    Number is less than 1.
+    Number is less.
     Input please number from 1 to 10:
     ```
   - Input:
@@ -67,7 +67,7 @@
     ```
   - Output:
     ```shell
-    Number is less than 2.
+    Number is less.
     Input please number from 1 to 10:
     ```
   - ...
